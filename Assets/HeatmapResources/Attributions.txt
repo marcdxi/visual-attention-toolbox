@@ -1,0 +1,10 @@
+The shader code, and some materials were adapted from the following github and modified under an MIT license
+This tutorial was followed:
+https://www.youtube.com/watch?v=Ah2rHGtOSbs
+I have discussed this with my supervisor
+https://github.com/ericalbers/UnityHeatmapShader is the link to the repository
+The following files are included:
+512x512_green.png 
+Materials/512x512_green.mat
+The rest are have had significant modifications.
+heatmap.shader (modified)

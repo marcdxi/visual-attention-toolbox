@@ -1,0 +1,4 @@
+The assets found in this folder, with the exception of the the "MyHeatMappedAssets" 
+are EXCLUSIVELY not my own, and are availaible from https://www.turbosquid.com/3d-models/3d-model-wall-maze/779420,
+The MyHeatMappedAssets folder contains a set of these external assets with the heatmapshader being applied to them to demonstrate how this works.
+Assets were purchased by the university.
