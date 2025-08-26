@@ -1,4 +1,4 @@
-Dissertation code submission for the ma2586
+
 
 Instructions for running:
 1. unzip the folder and open it un unity, the only package demendency is the Oculus SDK for unity, which can be found here: https://developer.oculus.com/downloads/package/unity-integration/?locale=en_GB
